@@ -1,6 +1,7 @@
 # numero-adivinado
 prueba de envio de codigo y de screenshot
 
-![image](https://github.com/user-attachments/assets/d0114999-7cea-4f73-a162-bd1c97ba5b65)
 
-![image](https://github.com/user-attachments/assets/c08ba0de-b5ed-46e1-b701-591ab2d2eb46)
+
+![image](https://github.com/user-attachments/assets/6845a636-d7dc-4cf3-a486-e93c18e0247f)
+![image](https://github.com/user-attachments/assets/a849314c-4ec1-46dd-8a89-cd333625f936)
